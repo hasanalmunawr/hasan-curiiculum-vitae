@@ -1,16 +1,18 @@
+# CURRICULUM VITAE
+## Hasan Almunawar
 
-Hasan Almunawar - Curriculum Vitae
 I am an individual who has a great interest in technology, especially in software 
 development. Currently, I am learning the Java programming language and Spring 
 Boot framewrok with great passion and enthusiasm. I am always interested in 
 learning new things and improving my skills in this field
-Personal Information
-Name: Hasan Almunawar
-Date of Birth: 23 July 2004
-Address: Bukit Murau, Singkut, Sarolangun, Jambi
-Email: hasanalmunawar01@gmail.com
-Phone: 082269030054
-Education
+
+**A.Personal Information**
+- Name: Hasan Almunawar
+- Date of Birth: 23 July 2004
+- Address: Bukit Murau, Singkut, Sarolangun, Jambi
+- Email: hasanalmunawar01@gmail.com
+- Phone: 082269030054
+**B.Education**
 Formal
 SMAS MUHAMMADIYAH SINGKUT (2019-2022)
 SMP MUHAMMADIYAH SINGKUT (2016-2019)
